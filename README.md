@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isidro Gonzalez</h1>
 <h3 align="center">A passionate frontend developer from United Sates</h3>
 
-- 🔭 I have my own company [Oasis Tech Solutions](https://oasistechsolutions.com)
+- 🔭 I run my own company [Oasis Tech Solutions](https://oasistechsolutions.com)
 
 - 📫 How to reach me **contact@oasistechsolutions.com**
 
